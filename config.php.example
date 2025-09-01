@@ -1,0 +1,9 @@
+<?php
+ini_set('default_charset', 'utf-8');
+
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'calendar_db');
+define('DB_USER', 'root');
+define('DB_PASS', 'your_password');
+define('DB_CHARSET', 'utf8mb4');
+?>
